@@ -1,0 +1,7 @@
+/home/SENSETIME/yuwei_vendor/test/log.c/src/build/CMakeFiles/install/strip.dir
+/home/SENSETIME/yuwei_vendor/test/log.c/src/build/CMakeFiles/edit_cache.dir
+/home/SENSETIME/yuwei_vendor/test/log.c/src/build/CMakeFiles/test_log.dir
+/home/SENSETIME/yuwei_vendor/test/log.c/src/build/CMakeFiles/rebuild_cache.dir
+/home/SENSETIME/yuwei_vendor/test/log.c/src/build/CMakeFiles/list_install_components.dir
+/home/SENSETIME/yuwei_vendor/test/log.c/src/build/CMakeFiles/install/local.dir
+/home/SENSETIME/yuwei_vendor/test/log.c/src/build/CMakeFiles/install.dir
