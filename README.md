@@ -1,7 +1,7 @@
 # clog
 A simple logging library implemented in C99
 
-![screenshot](https://cloud.githubusercontent.com/assets/3920290/23831970/a2415e96-0723-11e7-9886-f8f5d2de60fe.png)
+![screenshot](https://github.com/yuhongjiu8888/clog/blob/master/img/demo.png)
 
 
 ## Usage
