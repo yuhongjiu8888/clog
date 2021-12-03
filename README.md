@@ -16,6 +16,13 @@ log_info(const char *fmt, ...);
 log_warn(const char *fmt, ...);
 log_error(const char *fmt, ...);
 log_fatal(const char *fmt, ...);
+
+LOG_TRACE(const char *fmt, ...);
+LOG_DEBUG(const char *fmt, ...);
+LOG_INFO(const char *fmt, ...);
+LOG_WARN(const char *fmt, ...);
+LOG_ERROR(const char *fmt, ...);
+LOG_FATAL(const char *fmt, ...);
 ```
 
 Each function takes a printf format string followed by additional arguments:
